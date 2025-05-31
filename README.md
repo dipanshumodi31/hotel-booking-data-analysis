@@ -166,6 +166,7 @@ hotel-data-analysis/
 │   ├── connect_powerbi_to_db.png
 │   ├── adr_seasonality.png
 │   └── project_pipeline.png
+├── dashboard_file.pbix
 ├── Hotel_Data_Analysis_Guide.pptx
 ├── README.md
 └── Hotel_Booking_Data.csv
