@@ -162,9 +162,11 @@ hotel-data-analysis/
 │   ├── dashboard_overview.png
 │   ├── revenue_chart.png
 │   ├── parking_demand.png
+│   ├── sql_query.png
+│   ├── connect_powerbi_to_db.png
 │   ├── adr_seasonality.png
 │   └── project_pipeline.png
-├── Data_Analysis_Ppt.pptx
+├── Hotel_Data_Analysis_Guide.pptx
 ├── README.md
 └── Hotel_Booking_Data.csv
 ```
